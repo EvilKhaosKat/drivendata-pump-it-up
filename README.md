@@ -5,6 +5,8 @@ Using data from Taarifa and the Tanzanian Ministry of Water, can you predict whi
 
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
+## [Notebook](https://github.com/EvilKhaosKat/drivendata-pump-it-up/blob/master/notebooks/notebook.ipynb)
+
 ## Submissions
 
 | Best        | Current rank  | # Competitors  |
